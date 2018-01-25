@@ -1,6 +1,6 @@
 {
     "Alien Capital": {
-        "hull": "deepspace:aliencapital",
+        "hull": "deepspace:alienCapital",
         "items": "core:advancedArmor core:advancedShield core:cannon-1 core:cannon-2 ",
         "money": 2000000
     },
@@ -10,12 +10,12 @@
         "money": 10000
     },
     "Alien Attacker":{
-        "hull" : "deepspace:alienattacker",
+        "hull" : "deepspace:alienAttacker",
         "items": "99*rep core:advancedArmor-1 core:advancedShield-1 deepspace:alienGun-1 99*deepspace:alienbulletClip",
         "money": 10000
     },
     "Alien General":{
-        "hull" : "deepspace:aliengeneral",
+        "hull" : "deepspace:alienGeneral",
         "items": "99*rep core:advancedArmor-1 core:advancedShield-1 deepspace:alienBomb-1 deepspace:alienBomb-2 99*deepspace:biobombClip",
         "money": 10000
     }
