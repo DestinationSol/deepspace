@@ -102,7 +102,14 @@
                 "size": 0.07,
                 "tex": "core:fire",
                 "tint": "hsb 140 20 65"
-            }
+            },
+            "workSounds": [
+                "core:medEngineWork0",
+                "core:medEngineWork1",
+                "core:medEngineWork2",
+                "core:medEngineWork3",
+                "core:medEngineWork4"
+            ]
         },
         {
             "position": "0.15 0.52",
@@ -113,7 +120,14 @@
                 "size": 0.07,
                 "tex": "core:fire",
                 "tint": "hsb 140 20 65"
-            }
+            },
+            "workSounds": [
+                "core:medEngineWork0",
+                "core:medEngineWork1",
+                "core:medEngineWork2",
+                "core:medEngineWork3",
+                "core:medEngineWork4"
+            ]
         }
     ]
 }
