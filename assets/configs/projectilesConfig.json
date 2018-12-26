@@ -2,7 +2,7 @@
   "biobomb": {
     "dmg": 13,
     "dmgType": "explosion",
-    "spdLen": 0,
+    "speed": 0,
     "physSize": 0.1,
     "zeroAbsSpd": true,
 
@@ -29,7 +29,7 @@
 
   "alienbullet": {
     "dmg": 5,
-    "spdLen": 10,
+    "speed": 10,
     "dmgType": "bullet",
 
     "tex": "deepspace:alienbullet",
